@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "LTC3108")(type "KiCad")(uri "${KIPRJMOD}/parts/ltc_3108/footprints.pretty")(options "")(descr ""))
+  (lib (name "Wuerth_74488540070")(type "KiCad")(uri "${KIPRJMOD}/parts/wuerth_trafo")(options "")(descr ""))
+  (lib (name "RUM002N02")(type "KiCad")(uri "C:/Projects/pcb/libraryLoader/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "Connector_Pad")(type "KiCad")(uri "${KIPRJMOD}/parts/Connector_Pad.pretty")(options "")(descr ""))
+  (lib (name "C")(type "KiCad")(uri "${KIPRJMOD}/parts/Connector_Pad.pretty/C.pretty")(options "")(descr ""))
+)

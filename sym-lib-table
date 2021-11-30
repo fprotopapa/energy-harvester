@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "LTC_3801")(type "KiCad")(uri "${KIPRJMOD}/parts/ltc_3108/2021-11-30_07-13-40.kicad_sym")(options "")(descr ""))
+  (lib (name "wuerth_74488540070")(type "KiCad")(uri "${KIPRJMOD}/parts/wuerth_trafo/74488540070.kicad_sym")(options "")(descr ""))
+  (lib (name "library_loader")(type "KiCad")(uri "C:/Projects/pcb/libraryLoader/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)
