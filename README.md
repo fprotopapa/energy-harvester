@@ -4,7 +4,7 @@
 
 ## ToDo
 
-- [ ] Check footprints
+- [x] Check footprints
 - [x] Make BOM 
 - [x] Check schematic
 
@@ -15,7 +15,7 @@
 
 |# |Designator	|Part #	|Mfr.	|Description |Footprint	|Qty. |
 |- |----------- |------ |---- |----------- |--------- |---- |
-|1 |C4	|0508ZC105K4T2A|	Kyocera AVX	|10V 1uF	|0805 (2012 mm)	|1|
+|1 |C4	|0805ZC105JAT2A|	Kyocera AVX	|10V 1uF	|0805 (2012 mm)	|1|
 |2	|C1	|0805ZD106MAT2A|	Kyocera AVX	|10V 10uF	|0805(2012 mm)	|1|
 |3	|C5|	0805ZD475KAT4A|	Kyocera AVX|	10V 4.7uF|	0805 (2012 mm)	|1|
 |4	|C2, C3|	0805ZC102KAT2A|	Kyocera AVX|	10V 1nF|	0805 (2012 mm)	|2|
