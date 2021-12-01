@@ -6,6 +6,7 @@
 
 - [ ] Check footprints
 - [x] Make BOM 
+- [x] Check schematic
 
 ## PCB
 ![3D Image](img/3D.png)
