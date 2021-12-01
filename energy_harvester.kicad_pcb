@@ -41,7 +41,7 @@
     (pad_to_mask_clearance 0)
     (grid_origin 93.98 101.6)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x0000020_7ffffffe)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -528,7 +528,7 @@
     (path "/9942bbe9-6a50-46b6-a306-2abca10143ed")
     (attr smd)
     (fp_text reference "L1" (at 4.572 -2.794 90) (layer "F.SilkS")
-      (effects (font (size 1.27 1.27) (thickness 0.254)))
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 7caf614c-09cf-4533-b245-980a34a13fdb)
     )
     (fp_text value "74488540070" (at 0 -0.1) (layer "F.SilkS") hide
