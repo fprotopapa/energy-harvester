@@ -1177,7 +1177,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 86d69bc3-662d-4404-92e5-948b1cb0c889)
     (property "Reference" "C3" (id 0) (at 71.12 85.09 90))
-    (property "Value" "990p" (id 1) (at 71.12 87.63 90))
+    (property "Value" "1n" (id 1) (at 71.12 87.63 90))
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 71.12 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1213,7 +1213,7 @@
     (property "Reference" "C5" (id 0) (at 228.6 82.5499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "5u" (id 1) (at 228.6 85.0899 0)
+    (property "Value" "4.7u" (id 1) (at 228.6 85.0899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 226.06 83.82 0)
@@ -1349,7 +1349,7 @@
     (property "Reference" "IC1" (id 0) (at 140.97 71.12 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "LTC3108EGN-1-PBF" (id 1) (at 140.97 74.93 0)
+    (property "Value" "LTC3108EGN-1-TRPBF" (id 1) (at 140.97 74.93 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "LTC3108:LTC3108EGN-1-PBF" (id 2) (at 140.97 76.454 0)
@@ -1415,16 +1415,16 @@
       (reference "C2") (unit 1) (value "1n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/86d69bc3-662d-4404-92e5-948b1cb0c889"
-      (reference "C3") (unit 1) (value "990p") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C3") (unit 1) (value "1n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/83a3f49d-acb8-484c-a6f3-f53aac9094cf"
       (reference "C4") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/6acbf591-bff9-457a-95a0-80575e8c164f"
-      (reference "C5") (unit 1) (value "5u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C5") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/2f55abfa-582e-4300-a185-a37a87616fea"
-      (reference "IC1") (unit 1) (value "LTC3108EGN-1-PBF") (footprint "LTC3108:LTC3108EGN-1-PBF")
+      (reference "IC1") (unit 1) (value "LTC3108EGN-1-TRPBF") (footprint "LTC3108:LTC3108EGN-1-PBF")
     )
     (path "/1bfb43f6-53da-4112-8323-c6bee2d3244a"
       (reference "J1") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_Pad:2-pad")
