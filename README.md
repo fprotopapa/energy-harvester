@@ -5,7 +5,7 @@
 ## ToDo
 
 - [ ] Check footprints
-- [ ] Make BOM 
+- [x] Make BOM 
 
 ## PCB
 ![3D Image](img/3D.png)
