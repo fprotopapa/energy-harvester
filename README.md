@@ -1,6 +1,7 @@
 # Energy-harvester
 ## Description
 
+KiCAD 5.99
 
 ## ToDo
 
