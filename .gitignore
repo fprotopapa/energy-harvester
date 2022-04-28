@@ -1,6 +1,7 @@
 /parts
 /energy_harvester-backups
 /cad
+cad.zip
 
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
