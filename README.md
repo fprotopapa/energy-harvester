@@ -1,7 +1,9 @@
 # Energy-harvester
+
 ## Description
 
-KiCAD 5.99
+Energy harvester for Peltier elements with an output voltage of 3.3V. 
+One-sided design optimized for home manufacturing.
 
 ## ToDo
 
@@ -25,3 +27,7 @@ KiCAD 5.99
 |7	|IC1|	LTC3108EGN#TRPBF|	Analog Devices|	LTC3108|	SSOP-16	|1|
 |8	|L1|	WE-EHPI 74488540070|	Wuerth|	Ratio 1:100 coupled inductors|	SMD	|1|
 |9	|Q1|	RUM002N02|	Rohm|	Mosfet N-Channel|	SOT-723-3	|1|
+
+## KiCAD
+
+``` KiCAD v5.99 ```
